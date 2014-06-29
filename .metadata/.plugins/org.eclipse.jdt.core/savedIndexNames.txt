@@ -1,1 +1,0 @@
-INDEX VERSION 1.126+C:\Users\Thomas\Documents\GitHub\Plug_Dj_App_android\.metadata\.plugins\org.eclipse.jdt.core
